@@ -1,4 +1,29 @@
 {
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.colorTheme": "Noctis",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "bracket-pair-colorizer-2.colorMode": "Consecutive",
+    "editor.glyphMargin": false,
     "editor.fontFamily": "'Cascadia Code PL'",
-    "workbench.colorTheme": "Noctis"
+    "editor.fontLigatures": true,
+    "workbench.statusBar.visible": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.productIconTheme": "fluent-icons",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontSize": 15,
+    "editor.wordWrap": "on",
+    "editor.guides.bracketPairs": "active",
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": true,
+    "liveServer.settings.donotShowInfoMsg": true
+    
 }
